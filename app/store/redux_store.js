@@ -1,0 +1,1 @@
+var createStore = Redux.createStore;
